@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me: jbarbieri285@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i speak portuguese, english and spanish
+- ⚡ Fun fact: i speak portuguese, english, spanish and norwegian
 
 <!---
 kaitomino/kaitomino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
